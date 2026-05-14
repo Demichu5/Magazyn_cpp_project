@@ -43,6 +43,7 @@ System steruje dostępem do krytycznych funkcji aplikacji.
 ### Uruchomienie
 
 ```bash
+sudo bash setup.sh
 make
 ./main
 ```
